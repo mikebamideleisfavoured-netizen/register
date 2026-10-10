@@ -1,9 +1,9 @@
 {
-"owner": {
-"username": "mikebamideleisfavoured-netizen",
-"email": "[mikebamideleisfavoured@gmail.com](mailto:mikebamideleisfavoured@gmail.com)"
-},
-"records": {
-"CNAME": "490c9e45b771df77.vercel-dns-017.com"
-}
+  "owner": {
+    "username": "mikebamideleisfavoured-netizen",
+    "email": "mikebamideleisfavoured@gmail.com"
+  },
+  "records": {
+    "CNAME": "490c9e45b771df77.vercel-dns-017.com"
+  }
 }

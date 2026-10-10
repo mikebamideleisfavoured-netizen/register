@@ -1,9 +1,9 @@
 {
-"owner": {
-"username": "mikebamideleisfavoured-netizen",
-"email": "[mikebamideleisfavoured@gmail.com](mailto:mikebamideleisfavoured@gmail.com)"
-},
-"records": {
-"TXT": "vc-domain-verify=[www.mikebamidele.is-a.dev,b9011f7cf4e449f1cafd](http://www.mikebamidele.is-a.dev,b9011f7cf4e449f1cafd)"
-}
+  "owner": {
+    "username": "mikebamideleisfavoured-netizen",
+    "email": "mikebamideleisfavoured@gmail.com"
+  },
+  "records": {
+    "TXT": "vc-domain-verify=www.mikebamidele.is-a.dev,b9011f7cf4e449f1cafd"
+  }
 }
